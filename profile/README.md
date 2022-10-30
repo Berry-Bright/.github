@@ -1,0 +1,1 @@
+Berry Bright is an open source village managing, resouce gathering, multiplayer game.
